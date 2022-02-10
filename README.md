@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Surenjun , a front-end web developer.
+A front-end web developer.
 
 Contact me
 
