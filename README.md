@@ -2,6 +2,6 @@
 
 A front-end web developer 🧑‍💻
 
-Love the one who laughs , not too bad 😁
+Happy work, happy life 😁
 
 Contact me tlsurenjun@163.com 🤖
