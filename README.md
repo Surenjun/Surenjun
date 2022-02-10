@@ -2,7 +2,7 @@
 
 A front-end web developer.
 
-Love the one who laughs, not too bad😁
+Love the one who laughs, not too bad 😁
 
 Contact me
 
