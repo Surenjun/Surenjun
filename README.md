@@ -3,7 +3,7 @@
 
 A front-end developer 🧑‍💻
 
-Happy cording , Happy life 🤣
+Happy coding , Happy life 🤣
 
 Contact me tlsurenjun@163.com 🤖
 
