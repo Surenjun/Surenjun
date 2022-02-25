@@ -18,6 +18,5 @@ Languages 📖 and Tools 🔧:
 <!-- 
 
 Profile Trophies 🏆:
-<!--- ![Surenjun's github stats](https://github-readme-stats-tawny.vercel.app/api?username=Surenjun&show_icons=true&hide_border=true) --->
+![Surenjun's github stats](https://github-readme-stats-tawny.vercel.app/api?username=Surenjun&show_icons=true&hide_border=true) --->
 [![trophy](https://github-profile-trophy.vercel.app/?username=MuYunyun&title=MultiLanguage,Stars,Followers,Issues,Commit,PullRequest)](https://github-profile-trophy.vercel.app/?username=Surenjun&title=MultiLanguage,Stars,Followers,Issues,Commit,PullRequest)
- -->
