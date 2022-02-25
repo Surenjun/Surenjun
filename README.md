@@ -21,4 +21,4 @@ Languages 📖 and Tools 🔧:
 
 Profile Trophies 🏆:
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=MuYunyun&title=MultiLanguage,Stars,Followers,Issues,Commit,PullRequest)](https://github-profile-trophy.vercel.app/?username=Surenjun&title=MultiLanguage,Stars,Followers)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=MuYunyun&title=MultiLanguage,Stars,Followers)](https://github-profile-trophy.vercel.app/?username=Surenjun&title=MultiLanguage,Stars,Followers)
