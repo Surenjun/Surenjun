@@ -1,5 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?Cancel changesusername=Surenjun&show_icons=true&icon_color=ad0d52&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
+![](https://komarev.com/ghpvc/?username=Surenjun&color=blue&style=flat-square&label=PROFILE+VIEWS)
+
 A front-end developer 🧑‍💻
 
 Happy coding , Happy life 🤣
