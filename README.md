@@ -7,7 +7,7 @@ Happy coding , Happy life 🤣
 
 Contact me tlsurenjun@163.com 📧
 
-Languages and Tools:
+Languages📖 and Tools🔧:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png"></code>
